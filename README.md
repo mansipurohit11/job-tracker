@@ -15,6 +15,7 @@ Job hunting is chaos. You apply to 20 places, hear back from 3, forget about 12,
 - 🏷️ **Status tracking** — Applied, In Review, Interview, Offer, Rejected, Withdrawn (the full emotional rollercoaster)
 - 🔍 **Filter by status** — see only your interviews, or wallow in your rejections, your choice
 - 📅 **Sort by date or company** — for the mildly Type-A among us
+- 📊 **Import from Excel/CSV** — already tracking in a spreadsheet? Upload it and we'll handle the rest. Auto-detects your columns, matches your statuses, and imports everything in seconds
 - 💾 **Data saved in your browser** — no sign-ups, no accounts, no "we'd love to send you newsletters"
 - 🆓 **Completely free** — because job hunting is expensive enough
 
@@ -83,6 +84,10 @@ This creates your own personal copy of the project in your GitHub account. Think
 7. Click ✏️ to edit or 🗑️ to delete
 
 Pro tip: Update the status as you progress through interviews. It's weirdly satisfying to move something to "Interview" or "Offer." Less satisfying for "Rejected," but hey, at least you're organized about it.
+
+### Already tracking in Excel?
+ 
+No need to start over! Click **"📊 Import Excel"**, upload your `.xlsx`, `.xls`, or `.csv` file, and the app will auto-detect your columns and import everything. It even matches status values like "Interviewed" → Interview, "Pending" → In Review, etc. Your spreadsheet era is officially over.
 
 ---
 
