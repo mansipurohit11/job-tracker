@@ -134,4 +134,4 @@ MIT — do whatever you want with it. Just don't sell it and claim you invented 
 
 ---
 
-*Built with ☕ and mild frustration by [Anush](https://github.com/anushchhatani) & friends*
+*Built with ☕ and mild frustration by [Mansi](https://github.com/mansipurohit11) & friends*
